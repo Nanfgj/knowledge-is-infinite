@@ -4,7 +4,7 @@
 
 ## 1.1 JS起源
 
-<img src="images/1681265611540.png" alt="1681265611540" style="zoom:80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338621.png" alt="1681265611540" style="zoom:80%;" />
 
 > Javascript是一种由Netscape(网景)的LiveScript发展而来的原型化继承的面向对象的动态类型的区分大小写的`客户端脚本语言`，主要目的是为了解决服务器端语言，遗留的速度问题，为客户提供更流畅的浏览效果。当时服务端需要对数据进行验证，由于网络速度相当缓慢,只有28.8kbps，验证步骤浪费的时间太多。于是Netscape的浏览器Navigator加入了Javascript，提供了数据验证的基本功能。ECMA-262 是正式的 JavaScript 标准。这个标准基于 JavaScript (Netscape) 和 JScript (Microsoft)。ECMA-262 的开发始于 1996 年，在 1997 年 7 月，ECMA 会员大会采纳了它的首个版本。这个标准由 ECMA 组织发展和维护。JavaScript 的正式名称是 "ECMAScript"。JavaScript的组成包含ECMAScript、DOM、BOM。<font color='red'>JS是一种运行于浏览器端上的小脚本语句,可以实现网页如文本内容动,数据动态变化和动画特效等</font>,JS有 如下特点
 
@@ -22,7 +22,7 @@
 
 ## 1.2 JS 组成部分
 
-![1681266220955](images/1681266220955.png)
+![1681266220955](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338622.png)
 
 > ECMA 及版本变化
 
@@ -60,7 +60,7 @@
         + navigator对象      window对象的属性之一,代表浏览器软件本身
         + document对象     window对象的属性之一,代表浏览器窗口目前解析的html文档
 
-    <img src="images/1681267483366.png" alt="1681267483366" style="zoom:67%;" />
+    <img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338623.png" alt="1681267483366" style="zoom:67%;" />
 
 > DOM编程
 
@@ -68,17 +68,17 @@
 + document对象代表整个html文档，可用来访问页面中的所有元素，是最复杂的一个dom对象，可以说是学习好dom编程的关键所在。
 + 根据HTML代码结构特点,document对象本身是一种树形结构的文档对象。
 
-<img src="images/1681269953136.png" alt="1681269953136" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338624.png" alt="1681269953136" style="zoom:67%;" />
 
 
 
 + 上面的代码生成的树如下
 
-<img src="images/1681269970254.png" alt="1681269970254" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338625.png" alt="1681269970254" style="zoom:67%;" />
 
 + DOM编程其实就是用window对象的document属性的相关API完成对页面元素的控制的编程
 
-<img src="images/1681270260741.png" alt="1681270260741" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338626.png" alt="1681270260741" style="zoom:67%;" />
 
 ## 1.3 JS的引入方式
 
@@ -125,7 +125,7 @@
 
 + 效果
 
-<img src="images/jingxi.gif" alt="jingxi" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338627.gif" alt="jingxi" style="zoom:67%;" />
 
 
 
@@ -138,7 +138,7 @@
     + 一个html文档中,可以有多个script标签 
 + 抽取脚本代码到独立的js文件中
 
-<img src="images/1681270974917.png" alt="1681270974917" style="zoom:80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338628.png" alt="1681270974917" style="zoom:80%;" />
 
 + 在html文件中,通过script标签引入外部脚本文件
 
@@ -288,7 +288,7 @@ if(0){
 
 + 结果
 
-![1681285904625](images/1681285904625.png)
+![1681285904625](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338629.png)
 
 > switch结构
 
@@ -327,7 +327,7 @@ switch(month){
 
 + 效果
 
-<img src="images/switchex.gif" alt="switchex" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338630.gif" alt="switchex" style="zoom:67%;" />
 
 
 
@@ -355,7 +355,7 @@ while(i <= 9){
 
 + 效果
 
-<img src="images/1681287264843.png" alt="1681287264843" style="zoom: 80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338631.png" alt="1681287264843" style="zoom: 80%;" />
 
 > for循环
 
@@ -375,7 +375,7 @@ for(  var i = 1;i <= 9; i++){
 
 + 效果
 
-<img src="images/1681287264843.png" alt="1681287264843" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338631.png" alt="1681287264843" style="zoom:50%;" />
 
 > foreach循环
 
@@ -396,7 +396,7 @@ document.write("</ul>")
 
 + 效果
 
-![1681287540562](images/1681287540562.png)
+![1681287540562](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338632.png)
 
 ## 3.3 JS函数声明
 
@@ -435,7 +435,7 @@ console.log(result);
 
 + 调用测试
 
-![1681287984473](images/1681287984473.png)
+![1681287984473](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338633.png)
 
 
 
@@ -469,7 +469,7 @@ person.eat();
 
 + 效果
 
-![1681288692792](images/1681288692792.png)
+![1681288692792](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338634.png)
 
 
 
@@ -499,7 +499,7 @@ person.eat();
 
 + 效果
 
-![1681288692792](images/1681288692792.png)
+![1681288692792](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338634.png)
 
 ## 4.2 JSON格式
 
@@ -576,7 +576,7 @@ console.log(typeof personStr)
 
 + 前后端传递数据
 
-![1681292306466](images/1681292306466.png)
+![1681292306466](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338635.png)
 
 
 
@@ -975,7 +975,7 @@ console.log(typeof personStr)
         + localStorage对象          window对象的属性之一,代表浏览器的本地数据持久化存储
         + sessionStorage对象      window对象的属性之一,代表浏览器的本地数据会话级存储
     
-    <img src="images/1681267483366.png" alt="1681267483366" style="zoom:67%;" />
+    <img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338623.png" alt="1681267483366" style="zoom:67%;" />
 
 ##  6.2 window对象的常见属性(了解)
 
@@ -1154,7 +1154,7 @@ console.log(typeof personStr)
 + 通过removeItem可以将这些数据直接删除
 + 在F12开发者工具的应用程序栏,可以查看数据的状态
 
-<img src="images/1690348134594.png" alt="1690348134594" style="zoom: 80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338636.png" alt="1690348134594" style="zoom: 80%;" />
 
 # 七 DOM编程
 
@@ -1165,17 +1165,17 @@ console.log(typeof personStr)
 + document对象代表整个html文档，可用来访问页面中的所有元素，是最复杂的一个dom对象，可以说是学习好dom编程的关键所在。
 + 根据HTML代码结构特点,document对象本身是一种树形结构的文档对象。
 
-<img src="images/1681269953136.png" alt="1681269953136" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338624.png" alt="1681269953136" style="zoom:67%;" />
 
 
 
 + 上面的代码生成的树如下
 
-<img src="images/1681269970254.png" alt="1681269970254"  />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338625.png" alt="1681269970254"  />
 
 + DOM编程其实就是用window对象的document属性的相关API完成对页面元素的控制的编程
 
-<img src="images/1681270260741.png" alt="1681270260741"  />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338626.png" alt="1681270260741"  />
 
 + dom树中节点的类型
     + node  节点,所有结点的父类型
@@ -1832,7 +1832,7 @@ var b = reg.test(targetStr);//true
 
 ## 9.1 登录页及校验
 
-![1690507542637](images/1690507542637.png)
+![1690507542637](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338637.png)
 
 ``` html
 <!DOCTYPE html>
@@ -1968,7 +1968,7 @@ var b = reg.test(targetStr);//true
 
 ## 9.2 注册页及校验
 
-![1690507600043](images/1690507600043.png)
+![1690507600043](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338638.png)
 
 
 

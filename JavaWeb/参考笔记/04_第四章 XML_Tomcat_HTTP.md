@@ -2,7 +2,7 @@
 
 #  一 XML
 
-<img src="images/1681452257379.png" alt="1681452257379" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338248.png" alt="1681452257379" style="zoom:50%;" />
 
 
 
@@ -158,7 +158,7 @@ String value = element.attributeValue("属性名");
 -   硬件：电脑，提供服务供其它客户电脑访问
 -   软件：电脑上安装的服务器软件，安装后能提供服务给网络中的其他计算机，将本地文件映射成一个虚拟的url地址供网络中的其他人访问。
 
-![1681441674967](images/1681441674967.png)
+![1681441674967](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338249.png)
 
 
 
@@ -176,7 +176,7 @@ String value = element.attributeValue("属性名");
 
 ### 2.2.1 简介
 
-<img src="images/1681452377469.png" alt="1681452377469" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338250.png" alt="1681452377469" style="zoom:50%;" />
 
 > Tomcat是Apache 软件基金会（Apache Software Foundation）的Jakarta 项目中的一个核心项目，由Apache、Sun 和其他一些公司及个人共同开发而成。最新的Servlet 和JSP 规范总是能在Tomcat 中得到体现，因为Tomcat 技术先进、性能稳定，而且免费，因而深受Java 爱好者的喜爱并得到了部分软件开发商的认可，成为目前比较流行的Web 应用服务器。
 
@@ -216,47 +216,47 @@ String value = element.attributeValue("属性名");
 -   安装版：需要安装，一般不考虑使用。
 -   解压版: 直接解压缩使用，我们使用的版本。
 
-<img src="images/1681442513261.png" alt="1681442513261" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338251.png" alt="1681442513261" style="zoom:67%;" />
 
 > 安装
 
 1. 正确安装JDK并配置JAVA_HOME(以JDK17为例 https://injdk.cn中可以下载各种版本的JDK)
 
-<img src="images/1681442778503.png" alt="1681442778503" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338252.png" alt="1681442778503" style="zoom:67%;" />
 
 2. 解压tomcat到非中文无空格目录
 
-<img src="images/1681442849940.png" alt="1681442849940" style="zoom: 80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338253.png" alt="1681442849940" style="zoom: 80%;" />
 
 3. 点击bin/startup.bat启动
 
-<img src="images/1681442946756.png" alt="1681442946756" style="zoom: 80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338254.png" alt="1681442946756" style="zoom: 80%;" />
 
-<img src="images/1681442998407.png" alt="1681442998407" style="zoom: 60%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338255.png" alt="1681442998407" style="zoom: 60%;" />
 
 4. 打开浏览器输入 http://localhost:8080访问测试
 
-<img src="images/1681443038911.png" alt="1681443038911"  />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338256.png" alt="1681443038911"  />
 
 5. 直接关闭窗口或者运行 bin/shutdown.bat关闭tomcat
 
-<img src="images/1681442946756.png" alt="1681442946756" style="zoom: 80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338254.png" alt="1681442946756" style="zoom: 80%;" />
 
 6. 处理dos窗口日志中文乱码问题: 修改conf/logging.properties,将所有的UTF-8修改为GBK
 
-<img src="images/1681443124315.png" alt="1681443124315" style="zoom: 80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338257.png" alt="1681443124315" style="zoom: 80%;" />
 
 + 修改前
 
-<img src="images/1681443202115.png" alt="1681443202115" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338258.png" alt="1681443202115" style="zoom:50%;" />
 
 + 修改后
 
-<img src="images/1681443273573.png" alt="1681443273573" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338259.png" alt="1681443273573" style="zoom:50%;" />
 
 + 重启测试
 
-<img src="images/1681443314432.png" alt="1681443314432"  />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338260.png" alt="1681443314432"  />
 
 ## 2.3 Tomcat目录及测试
 
@@ -310,7 +310,7 @@ String value = element.attributeValue("属性名");
 
 > 一个标准的可以用于发布的WEB项目标准结构如下
 
-![1681453620343](images/1681453620343.png)
+![1681453620343](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338261.png)
 
 + app  本应用根目录
     + static 非必要目录,约定俗成的名字,一般在此处放静态资源 ( css  js  img)
@@ -322,7 +322,7 @@ String value = element.attributeValue("属性名");
 
 > url的组成部分和项目中资源的对应关系
 
-![1681456161723](images/1681456161723.png)
+![1681456161723](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338262.png)
 
 ## 2.5 WEB项目部署的方式
 
@@ -334,7 +334,7 @@ String value = element.attributeValue("属性名");
 
 + 在磁盘的自定义目录上准备一个app
 
-![1681456447284](images/1681456447284.png)
+![1681456447284](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338263.png)
 
 + 在tomcat的conf下创建Catalina/localhost目录,并在该目录下准备一个app.xml文件
 
@@ -354,88 +354,88 @@ String value = element.attributeValue("属性名");
 
 > 可以在创建项目前设置本地tomcat,也可以在打开某个项目的状态下找到settings
 
-<img src="images/1681457611053.png" alt="1681457611053" style="zoom: 80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338264.png" alt="1681457611053" style="zoom: 80%;" />
 
 > 找到 Build,Execution,Eeployment下的Application Servers ,找到+号
 
-<img src="images/1681457711914.png" alt="1681457711914"  />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338265.png" alt="1681457711914"  />
 
 > 选择Tomcat Server
 
-<img src="images/1681457800708.png" alt="1681457800708"  />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338266.png" alt="1681457800708"  />
 
 > 选择tomcat的安装目录
 
-<img src="images/1681457879937.png" alt="1681457879937" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338267.png" alt="1681457879937" style="zoom:50%;" />
 
 > 点击ok
 
-<img src="images/1681457921094.png" alt="1681457921094"  />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338268.png" alt="1681457921094"  />
 
 > 关联完毕
 
-<img src="images/1681458031957.png" alt="1681458031957" style="zoom:65%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338269.png" alt="1681458031957" style="zoom:65%;" />
 
 ### 2.6.2 IDEA创建web工程
 
 > 推荐先创建一个空项目,这样可以在一个空项目下同时存在多个modules,不用后续来回切换之前的项目,当然也可以忽略此步直接创建web项目
 
-<img src="images/1681458194939.png" alt="1681458194939" style="zoom: 60%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338270.png" alt="1681458194939" style="zoom: 60%;" />
 
-<img src="images/1681458273381.png" alt="1681458273381" style="zoom: 60%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338271.png" alt="1681458273381" style="zoom: 60%;" />
 
 > 检查项目的SDK,语法版本,以及项目编译后的输出目录
 
-<img src="images/1681458343921.png" alt="1681458343921" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338272.png" alt="1681458343921" style="zoom:50%;" />
 
-<img src="images/1681458393871.png" alt="1681458393871" style="zoom: 55%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338273.png" alt="1681458393871" style="zoom: 55%;" />
 
 > 先创建一个普通的JAVA项目
 
-<img src="images/1681458485837.png" alt="1681458485837" style="zoom:63%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338274.png" alt="1681458485837" style="zoom:63%;" />
 
 > 检查各项信息是否填写有误
 
-<img src="images/1681458599545.png" alt="1681458599545" style="zoom:60%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338275.png" alt="1681458599545" style="zoom:60%;" />
 
 > 创建完毕后,为项目添加Tomcat依赖
 
-<img src="images/1681458857830.png" alt="1681458857830" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338276.png" alt="1681458857830" style="zoom: 67%;" />
 
 
 
-<img src="images/1681458897017.png" alt="1681458897017" style="zoom: 95%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338277.png" alt="1681458897017" style="zoom: 95%;" />
 
-<img src="images/1681458939400.png" alt="1681458939400" style="zoom:70%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338278.png" alt="1681458939400" style="zoom:70%;" />
 
 > 选择modules,添加  framework support
 
 
 
-<img src="images/1681458672258.png" alt="1681458672258" style="zoom: 80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338279.png" alt="1681458672258" style="zoom: 80%;" />
 
 > 选择Web Application 注意Version,勾选  Create web.xml
 
-<img src="images/1681459007273.png" alt="1681459007273" style="zoom:80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338280.png" alt="1681459007273" style="zoom:80%;" />
 
 > 删除index.jsp ,替换为 index.html
 
-![1681459080873](images/1681459080873.png)
+![1681459080873](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338281.png)
 
 
 
-<img src="images/1681459147133.png" alt="1681459147133" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338282.png" alt="1681459147133" style="zoom: 67%;" />
 
 > 处理配置文件
 
 + 在工程下创建resources目录,专门用于存放配置文件(都放在src下也行,单独存放可以尽量避免文件集中存放造成的混乱)
 + 标记目录为资源目录,不标记的话则该目录不参与编译
 
-<img src="images/1681461443278.png" alt="1681461443278" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338283.png" alt="1681461443278" style="zoom:67%;" />
 
 + 标记完成后,显示效果如下
 
-<img src="images/1681461513406.png" alt="1681461513406"  />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338284.png" alt="1681461513406"  />
 
 > 处理依赖jar包问题
 
@@ -443,29 +443,29 @@ String value = element.attributeValue("属性名");
 + 必须在WEB-INF下,且目录名必须叫lib!!!
 + 复制jar文件进入lib目录
 
-![1681461788411](images/1681461788411.png)
+![1681461788411](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338285.png)
 
 + 将lib目录添加为当前项目的依赖,后续可以用maven统一解决
 
-<img src="images/1681461846178.png" alt="1681461846178" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338286.png" alt="1681461846178" style="zoom:67%;" />
 
-![1681461881121](images/1681461881121.png)
+![1681461881121](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338287.png)
 
 + 环境级别推荐选择module 级别,降低对其他项目的影响,name可以空着不写
 
 
 
-![1681461923761](images/1681461923761.png)
+![1681461923761](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338288.png)
 
 + 查看当前项目有那些环境依赖
 
-![1681463867295](images/1681463867295.png)
+![1681463867295](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338289.png)
 
-<img src="images/1681462179671.png" alt="1681462179671" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338290.png" alt="1681462179671" style="zoom:50%;" />
 
 + 在此位置,可以通过-号解除依赖
 
-<img src="images/1681462247973.png" alt="1681462247973" style="zoom:85%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338291.png" alt="1681462247973" style="zoom:85%;" />
 
 ### 2.6.3 IDEA部署-运行web项目
 
@@ -473,60 +473,60 @@ String value = element.attributeValue("属性名");
 
 + 就是检查工程目录下,web目录有没有特殊的识别标记
 
-![1681462523901](images/1681462523901.png)
+![1681462523901](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338292.png)
 
 + 以及artifacts下,有没有对应 _war_exploded,如果没有,就点击+号添加
 
-<img src="images/1681462584524.png" alt="1681462584524" style="zoom: 50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338293.png" alt="1681462584524" style="zoom: 50%;" />
 
 > 点击向下箭头,出现 Edit Configurations选项
 
-<img src="images/1681462645070.png" alt="1681462645070" style="zoom:100%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338294.png" alt="1681462645070" style="zoom:100%;" />
 
 > 出现运行配置界面
 
-<img src="images/1681462710108.png" alt="1681462710108" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338295.png" alt="1681462710108" style="zoom: 67%;" />
 
 
 
 > 点击+号,添加本地tomcat服务器
 
-<img src="images/1681462754191.png" alt="1681462754191" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338296.png" alt="1681462754191" style="zoom:67%;" />
 
 > 因为IDEA 只关联了一个Tomcat,红色部分就只有一个Tomcat可选
 
-<img src="images/1681462798933.png" alt="1681462798933" style="zoom: 65%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338297.png" alt="1681462798933" style="zoom: 65%;" />
 
 > 选择Deployment,通过+添加要部署到Tomcat中的artifact
 
-<img src="images/1681463011546.png" alt="1681463011546" style="zoom:65%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338298.png" alt="1681463011546" style="zoom:65%;" />
 
 > applicationContext中是默认的项目上下文路径,也就是url中需要输入的路径,这里可以自己定义,可以和工程名称不一样,也可以不写,但是要保留/,我们这里暂时就用默认的
 
-<img src="images/1681463049807.png" alt="1681463049807" style="zoom:80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338300.png" alt="1681463049807" style="zoom:80%;" />
 
 > 点击apply 应用后,回到Server部分. After Launch是配置启动成功后,是否默认自动打开浏览器并输入URL中的地址,HTTP port是Http连接器目前占用的端口号
 
-<img src="images/1681463212587.png" alt="1681463212587" style="zoom:80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338301.png" alt="1681463212587" style="zoom:80%;" />
 
 > 点击OK后,启动项目,访问测试
 
 + 绿色箭头是正常运行模式
 + "小虫子"是debug运行模式
 
-<img src="images/1681463386274.png" alt="1681463386274" style="zoom:80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338302.png" alt="1681463386274" style="zoom:80%;" />
 
 + 点击后,查看日志状态是否有异常
 
-<img src="images/1681463361795.png" alt="1681463361795" style="zoom:100%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338303.png" alt="1681463361795" style="zoom:100%;" />
 
 + 浏览器自动打开并自动访问了index.html欢迎页
 
-<img src="images/1681520068936.png" alt="1681520068936" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338304.png" alt="1681520068936" style="zoom:50%;" />
 
 > 工程结构和可以发布的项目结构之间的目录对应关系
 
-![1681464081226](images/1681464081226.png)
+![1681464081226](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338305.png)
 
 > IDEA部署并运行项目的原理
 
@@ -537,7 +537,7 @@ String value = element.attributeValue("属性名");
 + idea启动tomcat时,是让本地tomcat程序按照tomcat副本里的配置文件运行
 + idea的tomcat副本部署项目的模式是通过conf/Catalina/localhost/*.xml配置文件的形式实现项目部署的
 
-![1681521240438](images/1681521240438.png)
+![1681521240438](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338306.png)
 
 
 
@@ -547,9 +547,9 @@ String value = element.attributeValue("属性名");
 
 ## 3.1 HTTP简介
 
-<img src="images/1681522638617.png" alt="1681522638617" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338307.png" alt="1681522638617" style="zoom: 67%;" />
 
-<img src="images/1681522600239.png" alt="1681522600239" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338308.png" alt="1681522600239" style="zoom:67%;" />
 
 
 
@@ -613,7 +613,7 @@ String value = element.attributeValue("属性名");
 
 > 浏览器与服务器之间的通信过程要经历四个步骤
 
-![](images/1557672342250_1H8nt17MNz.png)
+![](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338309.png)
 
 -   浏览器与WEB服务器的连接过程是短暂的，每次连接只处理一个请求和响应。对每一个页面的访问，浏览器与WEB服务器都要建立一次单独的连接。
 -   浏览器到WEB服务器之间的所有通讯都是完全独立分开的请求和响应对。
@@ -622,7 +622,7 @@ String value = element.attributeValue("属性名");
 
 > 在HTTP1.0版本中，浏览器请求一个带有图片的网页，会由于下载图片而与服务器之间开启一个新的连接；但在HTTP1.1版本中，允许浏览器在拿到当前请求对应的全部资源后再断开连接，提高了效率。
 
-![](images/1557672415271_EgyN-GdbWY.png)
+![](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338310.png)
 
 
 
@@ -630,7 +630,7 @@ String value = element.attributeValue("属性名");
 
 > 几乎所有的PC端浏览器都支持了F12开发者工具,只不过不同的浏览器工具显示的窗口有差异
 
-<img src="images/1681522138051.png" alt="1681522138051" style="zoom:80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338311.png" alt="1681522138051" style="zoom:80%;" />
 
 
 
@@ -640,13 +640,13 @@ String value = element.attributeValue("属性名");
 
 > 主体上分为报文首部和报文主体,中间空行隔开
 
-<img src="images/1681522962846.png" alt="1681522962846" style="zoom: 62%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338312.png" alt="1681522962846" style="zoom: 62%;" />
 
 
 
 > 报文部首可以继续细分为  "行" 和 "头"
 
-![1681522998417](images/1681522998417.png)
+![1681522998417](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338313.png)
 
 ### 3.2.2 请求报文
 
@@ -660,7 +660,7 @@ String value = element.attributeValue("属性名");
 
 > 浏览器 f12 网络下查看请求数据包
 
-![1681524200024](images/1681524200024.png)
+![1681524200024](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338314.png)
 
 > form表单发送GET请求特点
 
@@ -718,7 +718,7 @@ Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
 
 + POST请求要求将form标签的method的属性设置为post
 
-![1681525012046](images/1681525012046.png)
+![1681525012046](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338315.png)
 
 > 查看post的请求行 请求头 请求体
 
@@ -766,11 +766,11 @@ username=admin&password=1232131
 -   空行；
 -   响应体；
 
-![1681525347456](images/1681525347456.png)
+![1681525347456](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338316.png)
 
 
 
-![1681525384347](images/1681525384347.png)
+![1681525384347](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072338317.png)
 
 + 响应行组成部分
     + 协议及版本 HTTP/1.1

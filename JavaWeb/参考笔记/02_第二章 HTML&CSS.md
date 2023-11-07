@@ -6,7 +6,7 @@
 
 > HTML 主要用于网页主体结构的搭建
 
-![1681115424967](images/1681115424967.png)
+![1681115424967](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337878.png)
 
 
 
@@ -14,11 +14,11 @@
 
 > CSS 主要用于页面元素美化
 
-<img src="images/1681115460825.png" alt="1681115460825" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337879.png" alt="1681115460825" style="zoom: 67%;" />
 
 > JavaScript 主要用于页面元素的动态处理
 
-<img src="images/js.gif" alt="js" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337880.gif" alt="js" style="zoom:67%;" />
 
 ##  1.2 什么是HTML
 
@@ -96,13 +96,13 @@ href="网址" 就是属性，href是属性名，"网址"是属性值
 <!-- 注释内容 -->
 ```
 
-![1681180699132](images/1681180699132.png)
+![1681180699132](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337881.png)
 
 ## 1.6 HTML的入门程序
 
 > 第一步 准备一个纯文本文件,拓展名为html
 
-<img src="images/new.gif" alt="new" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337882.gif" alt="new" style="zoom:50%;" />
 
 > 第二步  使用记事本打开网页,在网页内开发代码
 
@@ -121,7 +121,7 @@ href="网址" 就是属性，href是属性名，"网址"是属性值
 
 > 第三步 使用浏览器打开文件,查看显示的内容
 
-<img src="images/1681178113257.png" alt="1681178113257" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337883.png" alt="1681178113257" style="zoom: 67%;" />
 
 ## 1.7 HTML概念词汇解释
 
@@ -174,7 +174,7 @@ href="网址" 就是属性，href是属性名，"网址"是属性值
 
 
 
-<img src="images/1681175338788.png" alt="1681175338788" style="zoom: 33%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337884.png" alt="1681175338788" style="zoom: 33%;" />
 
 > 1 安装过程
 
@@ -182,7 +182,7 @@ href="网址" 就是属性，href是属性名，"网址"是属性值
 
 > 2 安装插件
 
-<img src="images/1684302778377.png" alt="1684302778377" style="zoom:80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337885.png" alt="1684302778377" style="zoom:80%;" />
 
 
 
@@ -202,41 +202,41 @@ href="网址" 就是属性，href是属性名，"网址"是属性值
 
 + `直接用vscode打开某个目录即可`直接将某个目录作为项目代码存放的根目录
 
-![1684897738491](images/1684897738491.png)
+![1684897738491](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337886.png)
 
-![1687330010547](images/1687330010547.png)
+![1687330010547](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337887.png)
 
 > 4 在工作空间下创建目录和文件
 
 + 点击带有"+"号的按钮即可创建文件或者目录
 
-![1687330312538](images/1687330312538.png)
+![1687330312538](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337888.png)
 
 + 在html中,输入"  !  " 并回车即可快速出现html的基本结构
 
-![newhtml](images/newhtml.gif)
+![newhtml](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337889.gif)
 
 > 5 通过live Server 小型服务器运行项目
 
 + 点击右下角Go Live , 或者在html编辑视图上右击 open with live Server  ,会自动启动小型服务器,并自动打开浏览器访问当前资源
 
-<img src="images/1681176763818.png" alt="1681176763818" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337890.png" alt="1681176763818" style="zoom: 67%;" />
 
 
 
 
 
-<img src="images/1681176815540.png" alt="1681176815540" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337891.png" alt="1681176815540" style="zoom:67%;" />
 
 + Live Server 实时加载功能
 
-<img src="images/GIF.gif" alt="GIF" style="zoom: 60%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337892.gif" alt="GIF" style="zoom: 60%;" />
 
 + Live Server使用完毕后,要记得关闭
 
-<img src="images/1681177160318.png" alt="1681177160318" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337893.png" alt="1681177160318" style="zoom: 67%;" />
 
-<img src="images/1681177186528.png" alt="1681177186528" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337894.png" alt="1681177186528" style="zoom:67%;" />
 
 > 6 其他常见设置
 
@@ -271,7 +271,7 @@ http://www.w3school.com.cn
 
 + 效果
 
-![1681179289089](images/1681179289089.png)
+![1681179289089](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337895.png)
 
 ## 2.2 段落标签
 
@@ -298,7 +298,7 @@ http://www.w3school.com.cn
 
 + 效果
 
-<img src="images/1681180017304.png" alt="1681180017304" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337896.png" alt="1681180017304" style="zoom: 67%;" />
 
 ## 2.3 换行标签
 
@@ -318,7 +318,7 @@ http://www.w3school.com.cn
 
 + 效果
 
-![1681180239241](images/1681180239241.png)
+![1681180239241](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337897.png)
 
 ## 2.4 列表标签
 
@@ -340,7 +340,7 @@ http://www.w3school.com.cn
 
 + 效果
 
-![1681194349015](images/1681194349015.png)
+![1681194349015](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337898.png)
 
 > 无序列表 分条列项展示数据的标签, 其每一项前面的符号不带有顺序特征
 
@@ -358,7 +358,7 @@ http://www.w3school.com.cn
 
 + 效果
 
-![1681194434091](images/1681194434091.png)
+![1681194434091](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337899.png)
 
 > 嵌套列表 列表和列表之前可以签到,实现某一项内容详细展示
 
@@ -383,7 +383,7 @@ http://www.w3school.com.cn
 
 + 效果
 
-![1681194504371](images/1681194504371.png)
+![1681194504371](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337900.png)
 
 ## 2.5 超链接标签
 
@@ -420,7 +420,7 @@ http://www.w3school.com.cn
 
 + 效果
 
-<img src="images/chaolianjiex.gif" alt="chaolianjiex" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337901.gif" alt="chaolianjiex" style="zoom:67%;" />
 
 
 
@@ -444,7 +444,7 @@ alt
 
 + 效果
 
-<img src="images/1681196307844.png" alt="1681196307844" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337902.png" alt="1681196307844" style="zoom:67%;" />
 
 
 
@@ -474,7 +474,7 @@ alt
 
 + 效果
 
-<img src="images/1681196276582.png" alt="1681196276582" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337903.png" alt="1681196276582" style="zoom: 67%;" />
 
 > video 用于在页面上引入一段视频
 
@@ -498,7 +498,7 @@ alt
 
 + 效果
 
-<img src="images/1681196233304.png" alt="1681196233304" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337904.png" alt="1681196233304" style="zoom: 67%;" />
 
 
 
@@ -550,7 +550,7 @@ alt
 
 + 展示效果
 
-![1681196961386](images/1681196961386.png)
+![1681196961386](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337905.png)
 
 > 单元格跨行
 
@@ -590,7 +590,7 @@ alt
 
 + 效果
 
-![1681197062594](images/1681197062594.png)
+![1681197062594](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337906.png)
 
 > 单元格跨行
 
@@ -642,7 +642,7 @@ alt
 
 + 效果
 
-![1681197299564](images/1681197299564.png)
+![1681197299564](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337907.png)
 
 ## 2.8 表单标签(重点)
 
@@ -675,7 +675,7 @@ alt
 
 + 效果
 
-![1681198068548](images/1681198068548.png)
+![1681198068548](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337908.png)
 
 ## 2.9 常见表单项标签(重点)
 
@@ -689,7 +689,7 @@ alt
 
 + 效果
 
-<img src="images/1681198354039.png" alt="1681198354039" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337909.png" alt="1681198354039" style="zoom:50%;" />
 
 
 
@@ -703,7 +703,7 @@ alt
 
 + 效果
 
-<img src="images/1681198393831.png" alt="1681198393831" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337910.png" alt="1681198393831" style="zoom:50%;" />
 
 
 
@@ -719,7 +719,7 @@ alt
 
 + 效果
 
-<img src="images/1681198448345.png" alt="1681198448345" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337911.png" alt="1681198448345" style="zoom:50%;" />
 
 + 说明
     + name属性相同的radio为一组，组内互斥
@@ -742,7 +742,7 @@ alt
 
 + 效果
 
-<img src="images/1681198540737.png" alt="1681198540737" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337912.png" alt="1681198540737" style="zoom:50%;" />
 
 + 说明
     + 设置checked="checked"属性设置默认被选中的checkbox
@@ -763,7 +763,7 @@ alt
 
 + 效果
 
-<img src="images/1681199376475.png" alt="1681199376475" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337913.png" alt="1681199376475" style="zoom:50%;" />
 
 + 说明
     + 下拉列表用到了两种标签，其中select标签用来定义下拉列表，而option标签设置列表项。
@@ -783,7 +783,7 @@ alt
 
 + 效果
 
-<img src="images/1681199471712.png" alt="1681199471712" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337914.png" alt="1681199471712" style="zoom:50%;" />
 
 
 
@@ -813,7 +813,7 @@ alt
 
 + 效果
 
-<img src="images/1681199589613.png" alt="1681199589613" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337915.png" alt="1681199589613" style="zoom:50%;" />
 
 
 
@@ -830,7 +830,7 @@ alt
 
 + 效果
 
-![1681199672580](images/1681199672580.png)
+![1681199672580](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337916.png)
 
 + 说明
     + 不同浏览器显示的样式有微小差异
@@ -859,23 +859,23 @@ alt
 
 + 展示效果
 
-<img src="images/1681200198741.png" alt="1681200198741" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337917.png" alt="1681200198741" style="zoom:67%;" />
 
 ## 2.11 特殊字符
 
 > 对于有特殊含义的字符,需要通过转移字符来表示
 
-<img src="images/1681200435834.png" alt="1681200435834"  />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337918.png" alt="1681200435834"  />
 
 
 
-<img src="images/1681200467767.png" alt="1681200467767"  />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337919.png" alt="1681200467767"  />
 
 
 
-<img src="images/1681200487125.png" alt="1681200487125"  />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337920.png" alt="1681200487125"  />
 
-<img src="images/1681200503798.png" alt="1681200503798"  />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337921.png" alt="1681200503798"  />
 
 
 
@@ -889,7 +889,7 @@ alt
 
 + 效果
 
-![1681200662087](images/1681200662087.png)
+![1681200662087](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337922.png)
 
 # 三 CSS的使用
 
@@ -921,7 +921,7 @@ alt
 
 + 效果
 
-![1681201322584](images/1681201322584.png)
+![1681201322584](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337923.png)
 
 + 缺点
     + html代码和css样式代码交织在一起,增加阅读难度和维护成本
@@ -962,7 +962,7 @@ alt
 
 + 效果
 
-![1681201553427](images/1681201553427.png)
+![1681201553427](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337924.png)
 
 
 
@@ -977,7 +977,7 @@ alt
 
 + 可以在项目单独创建css样式文件,专门用于存放CSS样式代码
 
-<img src="images/1681202361429.png" alt="1681202361429" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337925.png" alt="1681202361429" style="zoom: 67%;" />
 
 
 
@@ -1035,7 +1035,7 @@ alt
 
 + 效果
 
-![1681203591080](images/1681203591080.png)
+![1681203591080](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337926.png)
 
 + 说明
     + 根据标签名确定样式的作用范围
@@ -1076,7 +1076,7 @@ alt
 
 + 效果
 
-![1681203748017](images/1681203748017.png)
+![1681203748017](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337927.png)
 
 + 说明
     + 根据元素id属性的值确定样式的作用范围
@@ -1124,7 +1124,7 @@ alt
 
 + 效果
 
-![1681204269702](images/1681204269702.png)
+![1681204269702](https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337928.png)
 
 + 说明
     + 根据元素class属性的值确定样式的作用范围
@@ -1146,21 +1146,21 @@ alt
 
 +  当把框 1 向右浮动时，它脱离文档流并且向右移动，直到它的右边缘碰到包含框的右边缘
 
-<img src="images/1681260732580.png" alt="1681260732580" style="zoom: 80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337929.png" alt="1681260732580" style="zoom: 80%;" />
 
 + 当框 1 向左浮动时，它脱离文档流并且向左移动，直到它的左边缘碰到包含框的左边缘。因为它不再处于文档流中，所以它不占据空间，实际上覆盖住了框 2，使框 2 从视图中消失。如果把所有三个框都向左移动，那么框 1 向左浮动直到碰到包含框，另外两个框向左浮动直到碰到前一个浮动框。
 
 
 
-<img src="images/1681260842005.png" alt="1681260842005" style="zoom: 80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337930.png" alt="1681260842005" style="zoom: 80%;" />
 
 +  如果包含框太窄，无法容纳水平排列的三个浮动元素，那么其它浮动块向下移动，直到有足够的空间。如果浮动元素的高度不同，那么当它们向下移动时可能被其它浮动元素“卡住”
 
-<img src="images/1681260887708.png" alt="1681260887708" style="zoom: 80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337931.png" alt="1681260887708" style="zoom: 80%;" />
 
 > 浮动的样式名:float
 
-<img src="images/1681260937920.png" alt="1681260937920" style="zoom:80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337932.png" alt="1681260937920" style="zoom:80%;" />
 
 > 通过代码感受浮动的效果
 
@@ -1205,7 +1205,7 @@ alt
 
 + 效果
 
-<img src="images/1681261311289.png" alt="1681261311289" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337933.png" alt="1681261311289" style="zoom: 67%;" />
 
 
 
@@ -1217,7 +1217,7 @@ alt
 
 + 元素可以使用的顶部，底部，左侧和右侧属性定位。然而，这些属性无法工作，除非是先设定position属性。他们也有不同的工作方式，这取决于定位方法。
 
-<img src="images/1681261377875.png" alt="1681261377875" style="zoom: 80%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337934.png" alt="1681261377875" style="zoom: 80%;" />
 
 > 静态定位
 
@@ -1256,7 +1256,7 @@ alt
 
 + 效果
 
-<img src="images/1681261602297.png" alt="1681261602297" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337935.png" alt="1681261602297" style="zoom:50%;" />
 
 
 
@@ -1301,7 +1301,7 @@ alt
 
 + 效果
 
-<img src="images/1681261830830.png" alt="1681261830830" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337936.png" alt="1681261830830" style="zoom:50%;" />
 
 > 相对定位
 
@@ -1344,7 +1344,7 @@ alt
 
 + 效果
 
-<img src="images/1681261993904.png" alt="1681261993904" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337937.png" alt="1681261993904" style="zoom:50%;" />
 
 
 
@@ -1387,7 +1387,7 @@ alt
 
 + 效果
 
-<img src="images/fixeddingwei.gif" alt="fixeddingwei" style="zoom:50%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337938.gif" alt="fixeddingwei" style="zoom:50%;" />
 
 ## 3.6 CSS盒子模型
 
@@ -1395,7 +1395,7 @@ alt
 
 + CSS盒模型本质上是一个盒子，封装周围的HTML元素，它包括：边距（margin），边框（border），填充（padding），和实际内容（content）
 
-<img src="images/1681262535006.png" alt="1681262535006" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337939.png" alt="1681262535006" style="zoom:67%;" />
 
 + 说明：
     + Margin(外边距) - 清除边框外的区域，外边距是透明的。
@@ -1403,7 +1403,7 @@ alt
     + Padding(内边距) - 清除内容周围的区域，内边距是透明的。
     + Content(内容) - 盒子的内容，显示文本和图像。
 
-<img src="images/1681262585852.png" alt="1681262585852" style="zoom:67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337940.png" alt="1681262585852" style="zoom:67%;" />
 
 + 代码
 
@@ -1457,11 +1457,11 @@ alt
 
 + 效果
 
-<img src="images/1681263227281.png" alt="1681263227281" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337941.png" alt="1681263227281" style="zoom: 67%;" />
 
 
 
 + 在浏览器上,通过F12工具查看盒子模型状态
 
-<img src="images/1681263265604.png" alt="1681263265604" style="zoom: 67%;" />
+<img src="https://nfgj-picgo-images.oss-cn-shanghai.aliyuncs.com/images/202311072337943.png" alt="1681263265604" style="zoom: 67%;" />
 
